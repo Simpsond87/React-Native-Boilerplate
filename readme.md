@@ -26,5 +26,9 @@ Since the init application for React-Native CLI is weak, I've decided to make my
   * React-Native-Cli >= 2.0.1
   * React-Native >= 0.49.0
 
+## Getting Started
+You can start by forking or cloning this repo, then running `npm install`, which will install all of the necessary libraries for you to begin coding.
+In order to run your application in development mode, you will need two terminals open. In the first terminal, you will start the packager with `react-native start --reset-cache` and in the second terminal, you will run your application with `react-native run-android` or `react-native run-ios`.
+
 ## License
 MIT
