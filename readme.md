@@ -1,4 +1,4 @@
-![alt text][http://h4z.it/Image/2b8873_rnb-banner.png]
+![alt text](http://h4z.it/Image/2b8873_rnb-banner.png)
 
 
 ## Introduction
