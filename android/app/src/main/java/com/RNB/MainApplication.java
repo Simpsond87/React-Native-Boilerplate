@@ -1,4 +1,4 @@
-package com.capthis;
+package com.rnb;
 
 import android.app.Application;
 import android.util.Log;
