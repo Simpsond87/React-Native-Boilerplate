@@ -3,7 +3,8 @@
   "version": "0.0.8",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start"
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "generate": "plop --plopfile internals/generators/index.js"
   },
   "dependencies": {
     "native-base": "2.3.2",
@@ -17,6 +18,8 @@
   },
   "devDependencies": {
     "react-test-renderer": "16.0.0",
-    "regenerator-runtime": "0.11.0"
+    "regenerator-runtime": "0.11.0",
+    "node-plop": "0.5.5",
+    "plop": "1.7.4"
   }
 }
