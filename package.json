@@ -1,24 +1,25 @@
 {
   "name": "react-native-boilerplate",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "generate": "plop --plopfile internals/generators/index.js"
   },
   "dependencies": {
-    "native-base": "2.3.2",
-    "react": "16.0.0",
-    "react-native": "0.49.0",
+    "native-base": "2.3.6",
+    "react": "16.2.0",
+    "react-native": "0.52.0",
     "react-native-autocomplete-input": "3.4.0",
     "react-native-image-picker": "^0.26.7",
     "react-native-onesignal": "^3.0.5",
-    "react-native-vector-icons": "4.4.0",
-    "react-router-native": "^4.2.0"
+    "react-native-router-flux": "4.0.0-beta.27",
+    "react-native-simple-auth": "^2.2.0",
+    "react-native-vector-icons": "4.5.0"
   },
   "devDependencies": {
-    "react-test-renderer": "16.0.0",
-    "regenerator-runtime": "0.11.0",
+    "react-test-renderer": "16.2.0",
+    "regenerator-runtime": "0.11.1",
     "node-plop": "0.5.5",
     "plop": "1.7.4"
   }
